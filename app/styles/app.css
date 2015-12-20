@@ -1,0 +1,14 @@
+td {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+  appearance:button;
+  -moz-appearance:button; /* Firefox */
+  -webkit-appearance:button; /* Safari and Chrome */
+}
+
+.cell-open {
+  background-color: #fff !important;
+  -webkit-appearance: textfield;
+  border: 1px solid black;
+}
